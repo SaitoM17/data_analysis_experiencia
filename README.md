@@ -1,7 +1,5 @@
-# 📊 [Nombre_Del_Proyecto]
-# [Título del Análisis]
-
-Este proyecto realiza un análisis [exploratorio / predictivo / descriptivo] de [tema del proyecto]. El conjunto de datos incluye información sobre [breve descripción del contenido del dataset].
+# 📊 Data Analysis Experience
+# Mi Primera Experiencia como Análisista de Datos
 
 ---
 
@@ -20,7 +18,7 @@ Este proyecto realiza un análisis [exploratorio / predictivo / descriptivo] de 
 
 ## 🎯 Propósito
 
-El objetivo de este proyecto es [objetivo general del análisis], con el fin de [impacto esperado, decisiones que se tomarán, etc.].
+El objetivo de este proyecto es experientar como es trabajo de un análisista de datos en un ambiente laboral.
 
 ---
 
