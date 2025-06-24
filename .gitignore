@@ -1,3 +1,4 @@
 /venv
 *.db
 /data/raw/tickets.csv
+/notebooks/TPE_MarketBasketAnalysis_colab_2.ipynb
